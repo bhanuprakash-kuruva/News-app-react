@@ -1,0 +1,21 @@
+body {
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    background-image: url('https://img.freepik.com/premium-photo/abstract-blue-news-background-with-world-map-lighting-lines-texture-pattern-full-screen-photo_1123766-351.jpg?semt=ais_hybrid');
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  /* overflow: hidden;
+  height: 100vh; */
+  }
+  /* .scrollable{
+    overflow-y: auto;
+    height: 100vh;
+  }
+   */
+  h1, h2, h3 {
+    font-family: 'Chomsky', sans-serif;
+    font-size:40px;
+  }
+  
